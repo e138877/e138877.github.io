@@ -1,4 +1,4 @@
-# **[My website](https:///e138877.github.io/)..**
+# **[My website](https:///e138877.github.io/)**
 
 --- ---
 
