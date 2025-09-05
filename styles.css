@@ -1,6 +1,7 @@
 .title{
     font-weight: lighter;
     color:black;
+    transition: all 2s;
 }
 .title:hover{
     color:aqua;
